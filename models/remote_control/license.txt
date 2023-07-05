@@ -1,0 +1,11 @@
+Model Information:
+* title:	Remote Control
+* source:	https://sketchfab.com/3d-models/remote-control-5a2f44574fcf47ee83a1b707c7dd6136
+* author:	Mazen Essam (https://sketchfab.com/MazenEssam2002)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Remote Control" (https://sketchfab.com/3d-models/remote-control-5a2f44574fcf47ee83a1b707c7dd6136) by Mazen Essam (https://sketchfab.com/MazenEssam2002) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
